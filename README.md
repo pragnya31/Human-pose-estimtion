@@ -1,4 +1,4 @@
-# Microsoft-SAP Human Pose Estimation
+# SAP Human Pose Estimation
 
 A Computer Vision and Deep Learning project that detects human body keypoints and estimates human posture from images and videos using Python, OpenCV, and a pretrained TensorFlow-format deep learning model.
 
